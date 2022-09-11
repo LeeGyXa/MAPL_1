@@ -2,4 +2,6 @@
     <string name="app_name">MAPL_1</string>
     <string name="button">Button</string>
     <string name="textview">TextView</string>
+    <string name="new_color">New Color</string>
+    <string name="new_text">NEW TEXT</string>
 </resources>
